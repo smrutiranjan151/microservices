@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.smruti.inventoryservice.InventoryServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.324 s - in com.smruti.inventoryservice.InventoryServiceApplicationTests

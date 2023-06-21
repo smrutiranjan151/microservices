@@ -1,0 +1,10 @@
+com\smruti\productservice\model\Product$ProductBuilder.class
+com\smruti\productservice\controller\productController.class
+com\smruti\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\smruti\productservice\ProductServiceApplication.class
+com\smruti\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\smruti\productservice\model\Product.class
+com\smruti\productservice\dto\ProductRequest.class
+com\smruti\productservice\service\ProductService.class
+com\smruti\productservice\repository\ProductRepository.class
+com\smruti\productservice\dto\ProductResponse.class

@@ -1,0 +1,5 @@
+com\smruti\inventoryservice\InventoryServiceApplication.class
+com\smruti\inventoryservice\controller\InventoryController.class
+com\smruti\inventoryservice\model\Inventory.class
+com\smruti\inventoryservice\service\InventoryService.class
+com\smruti\inventoryservice\repository\InventoryRepository.class
